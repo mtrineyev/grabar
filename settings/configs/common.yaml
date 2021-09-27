@@ -1,0 +1,13 @@
+date_format: '%Y-%m-%d'
+string: bla
+dict:
+  foo: bar
+  key: value
+  the_answer: nop
+  1: 2
+int: 179
+list: [
+  45,
+  3.1415,
+  yep
+]
